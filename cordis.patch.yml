@@ -1,4 +1,4 @@
 # Applied when this package appears in a profile's dsh.profile.bundles list.
 - insert:
     - id: terminal-run
-      name: '@local/dsh-terminal-run'
+      name: 'dsh-terminal-run'

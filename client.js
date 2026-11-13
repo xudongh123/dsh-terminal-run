@@ -1,5 +1,5 @@
 /*
- * Client half of @local/dsh-terminal-run.
+ * Client half of dsh-terminal-run.
  *
  * On every shell code block in the conversation it puts a small "run" button
  * next to the language label. Clicking it:
@@ -12,7 +12,7 @@
  * control away from the user's own view.
  */
 window.__ModuleLoader__.load({
-  id: '@local/dsh-terminal-run',
+  id: 'dsh-terminal-run',
   factory(require) {
     'use strict'
 
@@ -264,7 +264,7 @@ window.__ModuleLoader__.load({
       }, 'dsh-terminal-run.style')
 
       ctx.effect(() => ctx.slots.inject('conversation.input.dock', () => ctx.slots.register({
-        name: 'conversation.input.dock', id: '@local/dsh-terminal-run',
+        name: 'conversation.input.dock', id: 'dsh-terminal-run',
       }, Dock)), 'dsh-terminal-run.session')
 
       ctx.effect(() => {

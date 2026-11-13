@@ -1,4 +1,4 @@
-# @local/dsh-terminal-run
+# dsh-terminal-run
 
 DSH bundle: adds a **▶ 终端 / ▶ Term** button to shell code blocks in the conversation and runs the snippet in the right sidebar terminal (opening one when the Session has none).
 
