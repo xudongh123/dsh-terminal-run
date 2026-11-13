@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "终端运行",
+    "description": "在 shell 代码块旁加一个运行按钮，点击后把命令发送到右侧栏终端执行。",
+    "detail": "docs/DETAIL.md"
+  }
+}

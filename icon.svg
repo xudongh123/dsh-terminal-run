@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Run in terminal">
+  <rect x="4" y="10" width="56" height="44" rx="8" fill="#1d2733"/>
+  <rect x="4" y="10" width="56" height="10" rx="8" fill="#2b3947"/>
+  <circle cx="12" cy="15" r="1.8" fill="#ff6b6b"/>
+  <circle cx="18" cy="15" r="1.8" fill="#ffd166"/>
+  <circle cx="24" cy="15" r="1.8" fill="#51cf66"/>
+  <path d="M14 31l9 7-9 7" fill="none" stroke="#63e6be" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M41 27l12 9-12 9z" fill="#4dabf7"/>
+</svg>

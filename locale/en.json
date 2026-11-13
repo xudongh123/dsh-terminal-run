@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Run in terminal",
+    "description": "Adds a run button to shell code blocks that executes the snippet in the right sidebar terminal.",
+    "detail": "docs/DETAIL.md"
+  }
+}
